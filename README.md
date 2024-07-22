@@ -7,7 +7,7 @@
 Email: pbk0398@gmail.com
 <br>
     
-## 🔧 Technologies & Tools
+## 🔧 Techniques and Tools Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
