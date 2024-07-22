@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats
-[![BoGyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogyeom0922)](https://github.com/bogyeom0922/github-readme-stats)
+![BoGyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogyeom0922&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 <br>
 
